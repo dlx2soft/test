@@ -1,0 +1,3 @@
+[submodule "common_addons"]
+	path = common_addons
+	url = git@github.com:dlx2soft/common_addons_test.git
